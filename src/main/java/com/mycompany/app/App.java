@@ -2,12 +2,13 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ *auto update demo
  */
 public class App
 {
 
     private final String message = "Hello World!";
-//auto update demo
+
     public App() {}
 
     public static void main(String[] args) {
