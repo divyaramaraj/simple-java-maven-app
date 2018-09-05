@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
- *auto update demo
+ *auto update demooo
  */
 public class App
 {
