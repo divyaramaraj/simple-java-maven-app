@@ -3,7 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  *auto update demooo
- *s3 buckect added
+ *s3 buckect added to file
  */
 public class App
 {
